@@ -1,4 +1,4 @@
 # Firefox_theme
-It has the following theme for Firefox web browser
+ links 
 * [orange and cyan in dark ](https://addons.mozilla.org/en-US/firefox/addon/orange-and-cyan-in-dark)
 * [orange-and-cyan in light](https://addons.mozilla.org/en-US/firefox/addon/orange-and-cyan-in-light)
